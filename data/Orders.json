@@ -1,0 +1,18 @@
+[
+  {
+    "id": "PZA001",
+    "customer": "John Doe",
+    "pizza": "Pepperoni",
+    "quantity": 2,
+    "date": "2025-05-22 12:30",
+    "status": "Preparing"
+  },
+  {
+    "id": "PZA002",
+    "customer": "Jane Smith",
+    "pizza": "Veggie Supreme",
+    "quantity": 1,
+    "date": "2025-05-21 17:00",
+    "status": "Delivered"
+  }
+]
